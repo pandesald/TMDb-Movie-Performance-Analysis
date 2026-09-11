@@ -14,6 +14,15 @@ Exploratory data analysis of 1.4M+ movie records from The Movie Database (TMDb),
 - Examine audience reception and genre performance using ratings, vote counts, runtime, production volume, and financial outcomes.
 - Communicate key findings through clear visualizations, analytical observations, and business-oriented storytelling.
 
+## Sample Figures
+<p float="center">
+  <img src="outputs/median-box-office-revenue-by-released-month.png" width="49%" />
+  <img src="outputs/budget-vs-revenue.png" width="49%" />
+</p>
+<p float="center">
+  <img src="outputs/movies-released-per-year.png" />
+</p>
+
 ## Key Findings
 - Only 58% of films with complete financial records were profitable — roughly 42 in 100 failed to recoup production costs.
 - Budget and revenue are moderately correlated (r = 0.59), but budget alone does not determine commercial outcomes.
