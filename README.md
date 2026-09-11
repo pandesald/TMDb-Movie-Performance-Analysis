@@ -17,7 +17,7 @@ Exploratory data analysis of 1.4M+ movie records from The Movie Database (TMDb),
 ## Key Findings
 - Only 58% of films with complete financial records were profitable — roughly 42 in 100 failed to recoup production costs.
 - Budget and revenue are moderately correlated (r = 0.59), but budget alone does not determine commercial outcomes.
-- December, March, and July produce the highest median box-office revenues.
+- December and July produce the highest median box-office revenues.
 - Adventure and Animation lead on revenue; Documentary and Music lead on audience ratings.
 
 ## Tools & Libraries
